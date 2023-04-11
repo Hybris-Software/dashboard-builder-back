@@ -1,0 +1,1 @@
+docker compose exec -u $(id -u) -it app bash
